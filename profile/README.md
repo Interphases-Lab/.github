@@ -12,7 +12,7 @@ Electrode–electrolyte interphases are nanometre-thin layers that form where a 
 | **Zinc-zinc** | Suppressing hydrogen evolution and hydroxide passivation to reach reversible Zn plating and stripping |
 | **Iron-ion** | Earth-abundant aqueous Fe chemistry for grid-scale storage. Interphase engineering against parasitic side reactions |
 
-Across all three we study **ion intercalation and metal plating/stripping reactions** — controlling nucleation, morphology, and Coulombic efficiency for high-capacity, dendrite-free energy storage.
+Across all three we study **ion intercalation and metal plating/stripping reactions** and **electrolyte decomposition pathways** — controlling nucleation, morphology, and Coulombic efficiency for high-capacity, dendrite-free energy storage.
 
 ## Methods
 
