@@ -17,7 +17,7 @@ Across all three we study **ion intercalation and metal plating/stripping reacti
 ## Methods
 
 - **Electrolyte exploration and exploitation** — formulation as the lever for tuning interphase chemistry
-- **Advanced Operando Characterization** — Online Electrochemical Mass Spectrometry (OEMS) for real-time gas evolution and decomposition pathways, Electrochemical Quartz Crystal Microbalance with Dissipation Monitoring (EQCM-D) for simultaneous nanogram mass and viscoelastic response as interphases grow and dissolve, Operando Fourier Transform Infrared Spectroscopy (FTIR) to identify and qauntify the nature, onset, and evolution of interphase compounds
+- **Advanced Operando Characterization** — Online Electrochemical Mass Spectrometry (OEMS) for real-time gas evolution and decomposition pathways, Electrochemical Quartz Crystal Microbalance with Dissipation Monitoring (EQCM-D) for simultaneous nanogram mass and viscoelastic response as interphases grow and dissolve, Operando Fourier Transform Infrared Spectroscopy (FTIR) to identify and quantify the nature, onset, and evolution of interphase compounds
 - **Self-driving laboratories** — automated electrochemical testing closed-loop with machine learning to navigate large compositional spaces
 
 ## Software
