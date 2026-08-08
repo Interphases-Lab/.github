@@ -9,7 +9,7 @@ Electrode–electrolyte interphases are nanometre-thin layers that form where a 
 | Area | Focus |
 |---|---|
 | **Lithium-ion** | How electrolyte composition shapes the solid electrolyte interphase (SEI), cycle life, and fast-charge tolerance |
-| **Aqueous zinc** | Suppressing hydrogen evolution and hydroxide passivation to reach reversible Zn plating and stripping |
+| **Zinc-zinc** | Suppressing hydrogen evolution and hydroxide passivation to reach reversible Zn plating and stripping |
 | **Iron-ion** | Earth-abundant aqueous Fe chemistry for grid-scale storage. Interphase engineering against parasitic side reactions |
 
 Across all three we study **ion intercalation and metal plating/stripping reactions** — controlling nucleation, morphology, and Coulombic efficiency for high-capacity, dendrite-free energy storage.
